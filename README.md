@@ -20,17 +20,17 @@ Archivos:
 ============
 
 1. **Analisis_y_preparacion_datos.ipynb**: script en el que se describen los datos, así mismo realiza las transformaciones para prepararlos para el entrenamiento de modelos de clustering.
-1.1 -- Entrada: datos de censo poblacional 2018 de Guatemala, disponibles en https://www.censopoblacion.gt/descarga
-1.2 -- Salida: datos procesados
+- -- Entrada: datos de censo poblacional 2018 de Guatemala, disponibles en https://www.censopoblacion.gt/descarga
+- -- Salida: datos procesados
 2. **Entrenamiento_DBSCAN-v2.ipynb**: script que realiza el entrenamiento de modelos de clustering utilizando el algoritmo DBSCAN.
-2.1 -- Entrada: datos procesados
-2.2 -- Salida: datos agrupados en clusters y métricas de ejecución
+- -- Entrada: datos procesados
+- -- Salida: datos agrupados en clusters y métricas de ejecución
 3. **Entrenamiento_Kmeans.ipynb**: script que realiza el entrenamiento de modelos de clustering utilizando el algoritmo Kmeans.
-3.1 -- Entrada: datos procesados
-3.2 -- Salida: datos agrupados en clusters y métricas de ejecución
+- -- Entrada: datos procesados
+- -- Salida: datos agrupados en clusters y métricas de ejecución
 4. **Entrenamiento_Cure_v2.ipynb**: script que realiza el entrenamiento de modelos de clustering utilizando el algoritmo Cure.
-4.1 -- Entrada: datos procesados
-4.2 -- Salida: datos agrupados en clusters y métricas de ejecución
+- -- Entrada: datos procesados
+- -- Salida: datos agrupados en clusters y métricas de ejecución
 
 
 
@@ -43,8 +43,6 @@ Adicionalmente, se construyeron visualizaciones para facilitar la interpretació
 Instalación:
 ============
 instalación manual:
-
-.. code:: bash
 
     # obtener fuentes del repositorio
     $ mkdir clustering_poblacion
