@@ -4,7 +4,7 @@ Estudio de algoritmos de clasificación no supervisada y optimización de hiperp
 Es un proyecto en Python que contiene el código fuente para la preparación de los datos y entrenamiento de modelos de clustering para la creación de grupos poblacionales.
 
 **Trabajo**: Estudio de algoritmos de clasificación no supervisada y optimización de hiperparametros para la creación de grupos poblacionales
-**Autor**: Julio Enrique Vargas Monzón.
+**Autor**: Julio Enrique Vargas Monzón
 **E-Mail**: julio.v.monzon@gmai.com
 
 
